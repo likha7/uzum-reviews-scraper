@@ -1,0 +1,4 @@
+reviews.json
+*.png
+__pycache__/
+.env
